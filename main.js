@@ -23,5 +23,5 @@ setInterval(async () => {
   } catch (error) {
     console.error(error);
   }
-}, 1000);
+}, 100);
 
